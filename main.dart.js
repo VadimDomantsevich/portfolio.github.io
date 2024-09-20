@@ -73005,7 +73005,7 @@ return A.eu(A.qC(A.b([A.I2(!1,!0,B.Gi,s,!0,s,s,s,s,s,s,s,s,s,new A.ag6(),s,s,s,s
 A.ag6.prototype={
 $0(){var s=window
 s.toString
-B.xQ.Q2(s,"https://www.linkedin.com/in/\u0432\u0430\u0434\u0438\u043c-\u0434\u043e\u043c\u0430\u043d\u0446\u0435\u0432\u0438\u0447-4395a0282/","new tab")},
+B.xQ.Q2(s,"https://linkedin.com/in/vadim-domantsevich-4395a0282","new tab")},
 $S:0}
 A.ag7.prototype={
 $0(){var s=window
